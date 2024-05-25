@@ -1,0 +1,40 @@
+.card {
+text-align:center;
+color: darkblue;
+background-color:hsl(202, 52%, 89%);
+font-family:cursive;
+}
+.image {
+    border-radius: 25px;
+    height: 350px;
+    width: 350px;
+
+}
+.list {
+    text-align: left;
+    font-size: 18px;
+}
+.bottomleft{
+    text-align: left;
+    
+}
+.bottomright{ 
+    text-align: right;
+
+
+}
+.font{
+    font-size: 40px;
+}
+.buttons{
+    color: white;
+    background-color: rgb(44, 176, 216);
+    border-radius: 25px;
+    height: 45px;
+    width:100px ;
+    border: 0px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+
+}
